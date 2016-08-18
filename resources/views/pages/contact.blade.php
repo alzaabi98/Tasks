@@ -5,7 +5,7 @@
 @stop
 
 @section('content')
-	<h3> this is only test </h3>
+	<h3> Abdulaziz Al Zaabi </h3>
 	<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam sint adipisci cum vero consequuntur voluptates iure enim sapiente commodi nemo. Odio temporibus recusandae ab perspiciatis quia eius impedit totam atque.
 	</p>
 
